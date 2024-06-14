@@ -3889,7 +3889,7 @@ __metadata:
     skeleton-elements: "npm:^4.0.1"
     swiper: "npm:^11.1.4"
     ua-parser-js: "npm:^1.0.38"
-    vite: "npm:^5.3.0"
+    vite: "npm:^5.3.1"
     vite-plugin-pwa: "npm:^0.20.0"
     vite-plugin-vuetify: "npm:^2.0.3"
     vue: "npm:^3.4.27"
@@ -7049,9 +7049,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^5.3.0":
-  version: 5.3.0
-  resolution: "vite@npm:5.3.0"
+"vite@npm:^5.3.1":
+  version: 5.3.1
+  resolution: "vite@npm:5.3.1"
   dependencies:
     esbuild: "npm:^0.21.3"
     fsevents: "npm:~2.3.3"
@@ -7085,7 +7085,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: 10/0278f286fc38427328a2f33de4d2ab5c96c683948872790c2ba8e67d362a3464b8ff59de2e433f5cdebf1a9bee899e05ad7a65b7f4fd31da931a8b08fa1746d3
+  checksum: 10/180ca1795389f1ebc0b09f2ce61846943d34df597c4719e68d1d5ecba3e6cbd5b3313a4a321119b18290de3ef543df433659ba8b678de84df152e0386342697f
   languageName: node
   linkType: hard
 
