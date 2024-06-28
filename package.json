@@ -60,7 +60,7 @@
     "git-rev-sync": "^3.0.2",
     "postcss-preset-env": "^9.5.14",
     "sass": "^1.77.6",
-    "vite": "^5.3.1",
+    "vite": "^5.3.2",
     "vite-plugin-pwa": "^0.20.0",
     "vite-plugin-vuetify": "^2.0.3"
   },
