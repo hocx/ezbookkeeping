@@ -58,7 +58,7 @@
     "eslint": "^9.5.0",
     "eslint-plugin-vue": "^9.26.0",
     "git-rev-sync": "^3.0.2",
-    "postcss-preset-env": "^9.5.14",
+    "postcss-preset-env": "^9.5.15",
     "sass": "^1.77.6",
     "vite": "^5.3.2",
     "vite-plugin-pwa": "^0.20.0",
